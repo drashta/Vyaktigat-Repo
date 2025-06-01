@@ -1,3 +1,5 @@
+//this was question where we have to search for a number in the array.
+
 #include <iostream>
 #include <vector>
 using namespace std;
