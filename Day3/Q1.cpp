@@ -1,3 +1,4 @@
+//there are multiple functions.I was learning functions this day.
 #include<bits/stdc++.h>
 using namespace std;
 
