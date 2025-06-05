@@ -1,5 +1,5 @@
-//Problem Statement: Given two sorted arrays, arr1, and arr2 of size n and m.
-//Find the union of two sorted arrays.
+//Problem Statement: Given an integer N and an array of size N-1 containing N-1 numbers between 1 to N. 
+//Find the number(between 1 to N), that is not present in the given array.
 #include<iostream>
 #include<vector>
 using namespace std;
