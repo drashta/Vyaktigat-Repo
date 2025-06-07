@@ -17,7 +17,7 @@ class Solution{
     int maxOne(vector<int> &arr,vector<int> &count,int n){
         for(int i =0;i<n;i++){
             if(arr[i]!=1){
-                count[]=
+                count[i]++;
             }
         }
     }
