@@ -34,7 +34,8 @@ public:
     }
 
 };
-int main() {
+
+int main(){
     int n;
     cout << "Enter the size of the array: ";
     cin >> n;
