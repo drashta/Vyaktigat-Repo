@@ -9,7 +9,6 @@ bool checkSorted(int arr[],int n){
     return true;
 }
 
-
 int main(){
     cout<<"enter the size of array: ";
     int n; cin>>n;
