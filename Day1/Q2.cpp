@@ -32,7 +32,6 @@ public:
             return slargest;  
         }         
     }
-
 };
 int main(){
     int n;
