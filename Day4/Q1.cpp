@@ -17,6 +17,8 @@ class Solution{
     }
 };
 
+
+
 int main(){
     cout<<"enter the size of array: ";
     int n;
