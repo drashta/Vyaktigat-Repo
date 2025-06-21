@@ -8,12 +8,14 @@ void func1(int i,int n){
     cout<<"nishant"<<endl;
     func1(i+1,n);
 }
+
 //print 1 to n numbers.
 void func2(int i,int n){
     if(i>n) return;
     cout<<i<<endl;
     func2(i+1,n);
 }
+
 //print n to 1 numbers.
 void func3(int n){
     if(n<1) return;
