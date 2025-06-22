@@ -39,9 +39,6 @@ class Solution{
         return 1;
     }
 };
-
-
-
 int main(){
     int m,n;
     cout<<"enter the the size of array1 and array2: ";
