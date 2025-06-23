@@ -1,5 +1,4 @@
 //Here we have to find the second largest element in array without sorting.
-
 #include<iostream>
 #include <vector>
 #include <climits>
