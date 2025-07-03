@@ -3,7 +3,6 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
 class Solution{
     public:
     int missingNo(vector<int>&num,vector<int>&arr,int n){
@@ -16,7 +15,6 @@ class Solution{
         return -1;
     }
 };
-
 int main(){
     int n;
     cout<<"enter the integar: ";
