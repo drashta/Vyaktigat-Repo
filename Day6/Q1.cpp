@@ -15,6 +15,7 @@ class Solution{
         return -1;
     }
 };
+
 int main(){
     int n;
     cout<<"enter the integar: ";
