@@ -35,6 +35,7 @@ int fact(int n){
     if (n==1) return 1;
     return n*fact(n-1);
 }
+
 //print fibionacci series.
 int fib(int n){
     while(n>0){
