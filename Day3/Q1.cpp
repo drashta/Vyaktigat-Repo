@@ -29,6 +29,7 @@ int func4(int n){
     if (n==0) return 0;
     return n+func4(n-1);
 }
+
 //print factorial of n terms.
 int fact(int n){
     if (n==0) return 1;
