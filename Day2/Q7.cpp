@@ -2,7 +2,6 @@
 #include<iostream>
 #include <vector>
 using namespace std;
-
 class Solution{
     public:
     int moveZeroes(vector<int>&nums, vector<int>&sorted){
